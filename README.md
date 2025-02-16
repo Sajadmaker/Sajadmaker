@@ -1,22 +1,23 @@
 <div align="center">
-  <h1>👋 Hi, I'm @Sajadmaker</h1>
-  <p>Full Stack Developer | DSA Enthusiast | Security Researcher</p>
+  <img src="https://avatars.githubusercontent.com/u/sajadmaker?v=4" width="150" height="150" style="border-radius: 50%;">
+  <h1>👋 Hi, I'm @sajadmaker</h1>
+  <p>💻 Full Stack Developer | 🔍 DSA | 🔒 Security Researcher</p>
 </div>
 
 ---
 
 <div align="center">
   <h2>🌱 Currently Learning</h2>
-  <p>Computer Science</p>
+  <p>Diving deep into Computer Science</p>
 </div>
 
 <div align="center">
-  <h2>💞️ Collaboration</h2>
-  <p>Open to exciting projects!</p>
+  <h2>💞️ Let's Collaborate</h2>
+  <p>Excited about innovative projects? Let's create something amazing!</p>
 </div>
 
 <div align="center">
-  <h2>📫 Get in Touch</h2>
+  <h2>📫 Connect with Me</h2>
   <p>Text me on X</p>
 </div>
 
@@ -24,7 +25,7 @@
 
 <div align="center">
   <p>
-    <i>Let's build something amazing together!</i>
+    <i>"Code is poetry. Let's write some beautiful lines together!"</i>
   </p>
 </div>
 
