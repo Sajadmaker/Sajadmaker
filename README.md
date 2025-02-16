@@ -1,33 +1,33 @@
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/sajadmaker?v=4" width="150" height="150" style="border-radius: 50%;">
-  <h1>👋 Hi, I'm @sajadmaker</h1>
-  <p>💻 Full Stack Developer | 🔍 DSA | 🔒 Security Researcher</p>
-</div>
+# @Sajadmaker
 
 ---
 
-<div align="center">
-  <h2>🌱 Currently Learning</h2>
-  <p>Diving deep into Computer Science</p>
-</div>
+## About
 
-<div align="center">
-  <h2>💞️ Let's Collaborate</h2>
-  <p>Excited about innovative projects? Let's create something amazing!</p>
-</div>
-
-<div align="center">
-  <h2>📫 Connect with Me</h2>
-  <p>Text me on X</p>
-</div>
+- **Full Stack Developer**
+- **DSA and Ai/ML**
+- **Security Researcher**
 
 ---
 
-<div align="center">
-  <p>
-    <i>"Code is poetry. Let's write some beautiful lines together!"</i>
-  </p>
-</div>
+## Learning
+
+- **Computer Science**
+
+---
+
+## Collaboration
+
+- Open to innovative projects.
+- Let's build something impactful together.
+
+---
+
+## Contact
+
+- Text me on X
+
+---
 
 <!---
 Sajadmaker/Sajadmaker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
