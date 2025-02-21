@@ -4,7 +4,7 @@
 
 ## About
 
-- **Full Stack Developer**
+- **Developer**
 - **DSA and Ai/ML**
 - **Security Researcher**
 
