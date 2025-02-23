@@ -1,10 +1,10 @@
 # Sajad (SajadMaker)
 
-👋 Hi, I'm **Sajad**, a software engineering student with a passion for coding and security research. I enjoy building software and exploring cybersecurity.
+👋 Hi, I'm **Sajad**, a software engineering student with a passion for coding and tech. I enjoy building software and exploring technologies.
 
 ### Skills
 - Software Development
-- Security Research
+- ds & algorithms
 
 ### Connect
 - **GitHub**: [SajadMaker](https://github.com/SajadMaker)
