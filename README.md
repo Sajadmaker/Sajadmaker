@@ -1,38 +1,32 @@
-# **SAJAD**  
-`Computer Science` | `Android Systems` | `ML Curious`
+# **Sajad**  
+**Computer Science Major | Android & Systems Developer**
 
-[![Twitter](https://img.shields.io/badge/@yourhandle-%231DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)  
-[![Email](https://img.shields.io/badge/contact-%23EA4335?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)  
-
----
-
-### **🛠️ Toolbox**  
-**Languages**  
-`Java` `Kotlin` `C` `Python`  
-
-**Android**  
-`Clean Architecture` `Coroutines` `Jetpack`  
-
-**Systems**  
-`Linux` `Git` `SQL` `Docker`  
-
-**ML/DSP**  
-`TensorFlow Lite` `NumPy` `Pandas`  
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)  
+[![Email](https://img.shields.io/badge/Email-%23D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)  
 
 ---
 
-### **🚀 What I Do Differently**  
-- **Write Android code that doesn't suck** (lifecycle-aware, leak-free)  
-- **Actually understand pointers** (thanks, C)  
-- **Care about cache misses** when they matter  
-- **Learn ML properly** - starting with the math  
-
-> *"Talk is cheap. Show me the code."*  
-> ― Linus Torvalds  
+### **Technical Skills**  
+**Languages:** Java, Kotlin, C, Python  
+**Android:** Jetpack, Coroutines, Clean Architecture  
+**Systems:** Linux, Git, MySQL, Docker  
+**CS Core:** Data Structures & Algorithms, OS, Networks  
+**Emerging:** Machine Learning (TensorFlow, NumPy)  
 
 ---
 
-**📫 Hit me up for:**  
-- Brutally honest code reviews  
-- Android performance deep dives  
-- ML implementation challenges  
+### **Current Focus**  
+- Building robust Android applications  
+- Advancing my understanding of systems programming  
+- Exploring machine learning fundamentals  
+
+---
+
+### **What I Offer**  
+- **Strong CS foundation** with practical implementation skills  
+- **Clean, maintainable code** in Android and systems environments  
+- **Adaptability** across different technical domains  
+
+---
+
+**Open to:** Technical collaborations, internships, and research opportunities  
