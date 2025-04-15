@@ -10,7 +10,8 @@
 **Languages:** Java, Kotlin, C, Python  
 **Android:** Jetpack, Coroutines, Clean Architecture  
 **Systems:** Linux, Git, SQL  
-**CS Core:** Data Structures & Algorithms, OOP, OS ,Computer Networks,DBMS
+**CS Core:** Data Structures & Algorithms, OOP, OS ,Computer Networks,DBMS.
+
 **Exploring:** Machine Learning (TensorFlow basics)  
 
 ---
