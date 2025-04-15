@@ -11,7 +11,6 @@
 **Android:** Jetpack, Coroutines, Clean Architecture  
 **Systems:** Linux, Git, SQL  
 **CS Core:** Data Structures & Algorithms, OOP, OS ,Computer Networks,DBMS.
-
 **Exploring:** Machine Learning (TensorFlow basics)  
 
 ---
